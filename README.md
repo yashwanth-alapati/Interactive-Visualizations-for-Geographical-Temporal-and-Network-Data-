@@ -1,4 +1,4 @@
-# Interactive-Visualizations-for-Geographical-Temporal-and-Network-Data-
+# Interactive-Visualizations-for-Geographical-Temporal-and-Network-Data
 
 
 This project features interactive data visualizations based on the **AidData Core Research Release Level 1.3.1**, created for **CS-GY 6313: Information Visualization (Fall 2024)** at NYU.
