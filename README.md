@@ -9,9 +9,9 @@ This project features interactive data visualizations based on the **AidData Cor
 - **SVG** for scalable vector graphics  
 
 ## Visualizations
-- **Network Visualization**: Donor-recipient relationships with interactive nodes and edges  
-- **Temporal Visualization**: Aid trends over time using bar charts and a time slider  
-- **Geographical Visualization**: Choropleth maps and pie charts showing aid distribution by country  
+- **Network Visualization**: Donor-recipient relationships with interactive nodes and edges, Matrix with a time slider. 
+- **Temporal Visualization**: Aid trends over time using Small Multiples Chart, Histogram
+- **Geographical Visualization**: Choropleth maps and bar charts showing aid distribution by country  
 
 ## Highlights
 - Processed ~18M records with custom JavaScript transformations  
